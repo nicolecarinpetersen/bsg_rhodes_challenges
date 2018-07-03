@@ -41,6 +41,7 @@
     <Compile Include="Q3DiagonalDifference.cs" />
     <Compile Include="Q4TimeTravel.cs" />
     <Compile Include="Q5BestTo100.cs" />
+    <Compile Include="RunThis.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bsg_rhodes_challenges_2018
 {
-    class Q4TimeTravel
+    public static class Q4TimeTravel
     {
     }
 }
