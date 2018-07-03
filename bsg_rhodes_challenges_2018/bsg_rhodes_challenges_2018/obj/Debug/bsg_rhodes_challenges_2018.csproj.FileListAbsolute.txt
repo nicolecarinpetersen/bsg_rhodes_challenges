@@ -1,0 +1,6 @@
+D:\2018\Rhodes Industry Day\bsg_rhodes_challenges\bsg_rhodes_challenges_2018\bsg_rhodes_challenges_2018\bin\Debug\bsg_rhodes_challenges_2018.exe.config
+D:\2018\Rhodes Industry Day\bsg_rhodes_challenges\bsg_rhodes_challenges_2018\bsg_rhodes_challenges_2018\bin\Debug\bsg_rhodes_challenges_2018.exe
+D:\2018\Rhodes Industry Day\bsg_rhodes_challenges\bsg_rhodes_challenges_2018\bsg_rhodes_challenges_2018\bin\Debug\bsg_rhodes_challenges_2018.pdb
+D:\2018\Rhodes Industry Day\bsg_rhodes_challenges\bsg_rhodes_challenges_2018\bsg_rhodes_challenges_2018\obj\Debug\bsg_rhodes_challenges_2018.csprojResolveAssemblyReference.cache
+D:\2018\Rhodes Industry Day\bsg_rhodes_challenges\bsg_rhodes_challenges_2018\bsg_rhodes_challenges_2018\obj\Debug\bsg_rhodes_challenges_2018.exe
+D:\2018\Rhodes Industry Day\bsg_rhodes_challenges\bsg_rhodes_challenges_2018\bsg_rhodes_challenges_2018\obj\Debug\bsg_rhodes_challenges_2018.pdb
