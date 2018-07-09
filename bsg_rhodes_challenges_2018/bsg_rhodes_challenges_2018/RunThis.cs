@@ -14,29 +14,32 @@ namespace bsg_rhodes_challenges_2018
             TestTimeTravel();
             TestBestTo100();
         }
-        
+
         // Q1
+        /*
+            Input:
+            Test case 1 = 3 9
+            Test case 2 = 17 24
+            Test case 3 = 50 56
+            Test case 4 = 113 120
+        */
         public static void TestSquares()
         {
-            TextWriter textWriter = new StreamWriter(Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+            Console.WriteLine("Enter the start and end values");
 
-            int q = Convert.ToInt32(Console.ReadLine());
+            string[] ab = Console.ReadLine().Split(' ');
 
-            for (int qItr = 0; qItr < q; qItr++)
-            {
-                string[] ab = Console.ReadLine().Split(' ');
+            int a = Convert.ToInt32(ab[0]);
 
-                int a = Convert.ToInt32(ab[0]);
+            int b = Convert.ToInt32(ab[1]);
 
-                int b = Convert.ToInt32(ab[1]);
+            int result = Q1SherlockandTheSquares.Squares(a, b);
 
-                int result = Q1SherlockandTheSquares.Squares(a, b);
+            Console.WriteLine(result);
 
-                textWriter.WriteLine(result);
-            }
+            Console.WriteLine("Press enter to exit.");
+            Console.ReadLine();
 
-            textWriter.Flush();
-            textWriter.Close();
         }
 
         // Q2
@@ -68,7 +71,7 @@ namespace bsg_rhodes_challenges_2018
         */
         static void TestDiagonal()
         {
-            TextWriter textWriter = new StreamWriter(Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+            Console.WriteLine("Start by entering the array size.");
 
             int n = Convert.ToInt32(Console.ReadLine());
 
@@ -81,10 +84,10 @@ namespace bsg_rhodes_challenges_2018
 
             int result = Q3DiagonalDifference.DiagonalDifference(arr);
 
-            textWriter.WriteLine(result);
+            Console.WriteLine(result);
+            Console.WriteLine("Press enter to exit.");
+            Console.ReadLine();
 
-            textWriter.Flush();
-            textWriter.Close();
         }
 
         // Q4
